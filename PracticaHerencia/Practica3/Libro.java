@@ -1,5 +1,4 @@
 package Practica3;
-import java.util.ArrayList;
 class Libro {
     private String titulo;
     private String autor;

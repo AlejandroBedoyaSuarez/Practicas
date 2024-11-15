@@ -25,7 +25,7 @@ class Persona {
     public void setEdad(int edad){
         this.edad= edad;
     }
-
+    
     //Método: visualizarInfo
     public void visualizarInfo(){
         System.out.println("El nombre del usuario es: " + nombre);
