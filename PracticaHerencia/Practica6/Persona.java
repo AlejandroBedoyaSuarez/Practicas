@@ -1,10 +1,10 @@
 package Practica6;
 
 class Persona {
-    private String nombre;
-    private String apellido;
-    private int edad;
-    private String genero;
+    protected String nombre;
+    protected String apellido;
+    protected int edad;
+    protected String genero;
 
     public Persona(String nombre, String apellido, int edad, String genero) {
         this.nombre = nombre;
